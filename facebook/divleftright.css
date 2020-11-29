@@ -1,0 +1,28 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.box{
+	background: #000;
+	width: 700px;
+	height: 400px;
+
+}
+.left{
+	width: 220px;
+	height: 200px;
+	background-color: green;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+.right{
+	width: 220px;
+	height: 200px;
+	background-color: yellow;
+	float: right;
+	margin-right:  200px;
+	margin-top: 10px;
+
+}
